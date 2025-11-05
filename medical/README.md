@@ -196,8 +196,8 @@ Visit **[http://localhost:5173](http://localhost:5173)**
 | ![Dashboard](login.png)                          | Main patient dashboard       |
 | ![Symptom Checker](symptom_checker.png)          | AI-based symptom analysis    |
 | ![Scheduler](scheduler.png)                      | Appointment booking calendar |
-| ![Voice Assistant](patient_profile.png)          | patient profile  interaction |
-| ![Voice Assistant](medication.png)               | medication remembering       |
+| ![patient_profile](patient_profile.png)          | patient profile  interaction |
+| ![medication](medication.jpeg)                    | medication remembering       |
 
 ---
 
